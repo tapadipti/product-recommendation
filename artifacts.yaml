@@ -1,0 +1,6 @@
+product-recommendation:
+  description: product-recommendation
+  labels:
+  - nlp
+  path: models/product-recommendation.h5
+  type: model
